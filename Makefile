@@ -1,5 +1,6 @@
-SDK_DIR := nRF5_SDK_17.1.0_ddde560
-SDK_URL := https://nsscprodmedia.blob.core.windows.net/prod/software-and-other-downloads/sdks/nrf5/binaries/nrf5_sdk_17.1.0_ddde560.zip
+#SDK_DIR := nRF5_SDK_17.1.0_ddde560
+SDK_DIR := nRF5_SDK_17.0.2_d674dde
+SDK_URL := https://developer.nordicsemi.com/nRF5_SDK/nRF5_SDK_v17.x.x/$(SDK_DIR).zip
 
 SEGGER_ARM_DIR := arm_segger_embedded_studio_544_linux_x64
 SEGGER_ARM_URL := https://dl.a.segger.com/embedded-studio/Setup_EmbeddedStudio_ARM_v544_linux_x64.tar.gz
